@@ -7,6 +7,7 @@ public class MyClass {
     	System.out.println("\n Hi this is Karthik Raman");
     	System.out.println("\n Hi this is Karthik Raman with new changes");
     	System.out.println("\n Hey this is Namit Wadhwa");
+	System.out.println("\n Hey this is Ravi Ranjan");
 	}
 
 }
