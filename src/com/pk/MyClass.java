@@ -8,6 +8,8 @@ public class MyClass {
     	System.out.println("\n Hi this is Karthik Raman with new changes");
     	System.out.println("Hi This is Vaibhav Garg");
     	System.out.println("\n Hi This is Sanchay Mehta");
+    	System.out.println("\n Hello This is Guru Pratheek");
+
 	}
 
 }
